@@ -1,2 +1,2 @@
-# Digital-Image-Processing
-Digital image processing algorithm there
+# Digital-Image-Processing-Basic
+Digital image processing Basic algorithm there
