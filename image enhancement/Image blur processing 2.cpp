@@ -8,7 +8,7 @@ using namespace cv;
 
 int main()
 {
-	Mat src = imread("ÇåÎú.jpg"), dst;
+	Mat src = imread("clear.jpg"), dst;
 
 	GaussianBlur(src, dst, Size(0, 0), 25);
 

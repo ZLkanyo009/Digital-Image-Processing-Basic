@@ -57,7 +57,7 @@ int Otsu(cv::Mat& src, cv::Mat& dst, int thresh) {
 int main()
 {
 	//读取视频或摄像头
-	VideoCapture capture("2.mp4");
+	VideoCapture capture("video.mp4");
 	clock_t startTime, endTime;
 	double time, FPS;
 	double FPS_AVE = 0;

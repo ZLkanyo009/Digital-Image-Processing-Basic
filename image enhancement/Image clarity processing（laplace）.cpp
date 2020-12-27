@@ -5,7 +5,7 @@ using namespace std;
 using namespace cv;
 void main()
 {
-	Mat srcImage = imread("F:\\opencv_re_learn\\2.jpg");
+	Mat srcImage = imread("blur.jpg");
 	if (!srcImage.data) {
 		cout << "falied to read" << endl;
 		system("pause");

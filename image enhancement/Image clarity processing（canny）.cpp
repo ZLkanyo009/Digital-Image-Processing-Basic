@@ -38,7 +38,7 @@ void Scale(Mat&input, Mat&output, int index = 0)
 
 void main()
 {
-	Mat srcImage = imread("Ä£ºý.jpg");
+	Mat srcImage = imread("blur.jpg");
 	if (!srcImage.data) {
 		cout << "falied to read" << endl;
 		system("pause");

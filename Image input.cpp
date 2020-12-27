@@ -5,7 +5,7 @@ using namespace cv;
 
 int main()
 {   
-	Mat img = imread("picture2.jpg");
+	Mat img = imread("picture.jpg");
 	//namedWindow("сно╥");
 	imshow("image", img);
 	waitKey(0);

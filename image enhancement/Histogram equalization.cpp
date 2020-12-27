@@ -72,7 +72,7 @@ void Histogram_equalization(cv::Mat& src, cv::Mat& dst) {
 }
 
 int main() {
-	cv::Mat src = cv::imread("picture2.jpg");
+	cv::Mat src = cv::imread("picture.jpg");
 	if (src.empty()) {
 		return -1;
 	}

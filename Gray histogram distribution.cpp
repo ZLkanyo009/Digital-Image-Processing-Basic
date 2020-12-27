@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
 	Mat img;
-	img = imread("picture2.jpg");
+	img = imread("picture.jpg");
 
 	imshow("image", img);
 

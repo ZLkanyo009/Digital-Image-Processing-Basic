@@ -26,7 +26,7 @@ using namespace std;
 //}
 
 int main(int artc, char** argv) {
-	Mat src = imread("Ä£ºý.jpg");
+	Mat src = imread("blur.jpg");
 	if (src.empty()) {
 		printf("could not load image...\n");
 		return -1;

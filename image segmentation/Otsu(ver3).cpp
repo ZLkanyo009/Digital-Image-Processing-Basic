@@ -74,7 +74,7 @@ int Otsu(Mat& src, Mat& src2, Mat& src3, Mat& dst, int &thresh) {
 
 
 int main() {
-	Mat src = imread("1.jpg");
+	Mat src = imread("picture.jpg");
 	if (src.empty()) {
 		return -1;
 	}

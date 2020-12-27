@@ -8,7 +8,7 @@ int main()
 {
 	//加载图片
 	Mat img, reverse_img;
-	img = imread("picture2.jpg");
+	img = imread("picture.jpg");
 	imshow("image", img);
 	//多通道取反
 	reverse_img.create(img.size(), img.type());

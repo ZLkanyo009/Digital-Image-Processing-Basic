@@ -8,7 +8,7 @@ using namespace cv;
 
 int main()
 {
-	Mat src = imread("ÇåÎú.jpg"), dst;
+	Mat src = imread("clear.jpg"), dst;
 
 	blur(src, dst, Size(80, 80));
 

@@ -213,7 +213,7 @@ int main()
 	RGBQUAD *rgbPalette;//µ÷É«°å
 
 	void * img[500];
-	char *FileName = "2.bmp";
+	char *FileName = "picture.bmp";
 
 	ReadBmp(fileHeader, infoHeader, rgbPalette, img, FileName);
 

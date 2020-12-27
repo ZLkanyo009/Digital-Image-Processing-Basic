@@ -8,7 +8,7 @@ using namespace cv;
 
 int main()
 {
-	Mat src = imread("ÇåÎú.jpg"), dst;
+	Mat src = imread("clear.jpg"), dst;
 	
 	resize(src, dst, Size(96, 96));
 	resize(dst, dst, Size(src.cols , src.rows ));

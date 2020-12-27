@@ -41,7 +41,7 @@ void Scale(Mat&input, Mat&output, int index = 0)
 
 int main()
 {
-	Mat src = imread("2.png"), gblur, mask, smask, dst;
+	Mat src = imread("medical_bone.png"), gblur, mask, smask, dst;
 	Mat laplas;
 	Mat output;
 	src.convertTo(src, CV_32F, 1.0 / 255, 0);
