@@ -8,36 +8,36 @@ Digital image processing Basic algorithm there,Try to use the image processing c
 
 ## Visualization
 ### origin picture:
-![avatar](./assets/origin_image.jpg)
+![origin_image](./assets/origin_image.jpg)
 ### inverse:
-![avatar](./assets/inverse.jpg)
+![inverse](./assets/inverse.jpg)
 ### histogram:
-![avatar](./assets/histogram_image.png)
+![histogram](./assets/histogram_image.png)
 ### Otsu:
-![avatar](./assets/Otsu.jpg)
+![Otsu](./assets/Otsu.jpg)
 ### Spectrum_map:
-![avatar](./assets/Spectrum_map.jpg)
+![Spectrum_map](./assets/Spectrum_map.jpg)
 ### ideal_low_pass:
-![avatar](./assets/ideal_low_pass.jpg)
+![ideal_low_pass](./assets/ideal_low_pass.jpg)
 ### ideal_low_pass_output:
-![avatar](./assets/ideal_low_pass_output.jpg)
+![ideal_low_pass_output](./assets/ideal_low_pass_output.jpg)
 ### Butterworth_low_pass:
-![avatar](./assets/Butterworth_low_pass.jpg)
+![Butterworth_low_pass](./assets/Butterworth_low_pass.jpg)
 ### Butterworth_low_pass_output:
-![avatar](./assets/Butterworth_low_pass_output.jpg)
+![Butterworth_low_pass_output](./assets/Butterworth_low_pass_output.jpg)
 ### Gauss_low_pass:
-![avatar](./assets/Gauss_low_pass.jpg)
+![Gauss_low_pass](./assets/Gauss_low_pass.jpg)
 ### Gauss_low_pass_output:
-![avatar](./assets/Gauss_low_pass_output.jpg)
+![Gauss_low_pass_output](./assets/Gauss_low_pass_output.jpg)
 ### image_segmentation:
-![avatar](./assets/image_segmentation.jpg)
+![image_segmentation](./assets/image_segmentation.jpg)
 ### origin_man:
-![avatar](./assets/origin_man.jpg)
+![origin_man](./assets/origin_man.jpg)
 ### segmentation_man:
-![avatar](./assets/segmentation_man.jpg)
+![segmentation_man](./assets/segmentation_man.jpg)
 ### origin_space:
-![avatar](./assets/origin_space.jpg)
+![origin_space](./assets/origin_space.jpg)
 ### Butterworth_band_stop:
-![avatar](./assets/Butterworth_band_stop.jpg)
+![Butterworth_band_stop](./assets/Butterworth_band_stop.jpg)
 ### band_stop_space:
-![avatar](./assets/band_stop_space.jpg)
+![band_stop_space](./assets/band_stop_space.jpg)
