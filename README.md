@@ -34,7 +34,7 @@ Digital image processing Basic algorithm there,Try to use the image processing c
 ### origin_man:
 ![avatar](./assets/origin_man.jpg)
 ### segmentation_man:
-![avatar](./assets/ideal_low_pass_output.jpg)
+![avatar](./assets/segmentation_man.jpg)
 ### origin_space:
 ![avatar](./assets/origin_space.jpg)
 ### Butterworth_band_stop:
